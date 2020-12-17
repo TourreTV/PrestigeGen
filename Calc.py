@@ -1,5 +1,3 @@
-# Créé par Elève, le 05/11/2020 en Python 3.7
-
 import random
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
