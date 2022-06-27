@@ -1,7 +1,7 @@
-#PrestigeGen
+# PrestigeGen
 Générateur de ProtonMail (peut-être obselete).
 
-##Lancement
+## Lancement
 ```
 python main.py
 ```
